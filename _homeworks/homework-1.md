@@ -5,8 +5,8 @@ permalink: /homework-1/
 description: review and data exploration
 nav: true
 hw_pdf: assignment-1.pdf
-assigned: january 11
-due_date: january 18
+assigned: september 9
+due_date: september 16
 horizontal: false
 ---
 
@@ -20,7 +20,7 @@ Please review the homework in this [pdf file]({{ site.baseurl }}/assets/pdf/assi
 ### data and starter kit
 -----
 
-You will need [the data](https://course.ccs.neu.edu/cs6220/fall2023/homework-1/) for the review portion and [netflix data](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) for the exploration portion.
+You will need [the data](https://course.ccs.neu.edu/cs6220/fall2024/homework-1/) for the review portion and [netflix data](https://www.kaggle.com/datasets/netflix-inc/netflix-prize-data) for the exploration portion.
 
 <center>
 <img src="https://assets3.thrillist.com/v1/image/2677184/792x528/scale;webp=auto;jpeg_quality=60.jpg" width="500" height="auto">
