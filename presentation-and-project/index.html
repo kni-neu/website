@@ -134,79 +134,118 @@
           <article>
             <hr style="border:2px solid gray">
 
-<h4 id="project-presentation-and-writeup">project presentation and writeup</h4>
+<h4 id="project-presentation-demonstration-and-writeup">project presentation, demonstration, and writeup</h4>
+
+<p>Create a finished, deployable solution with a front end that leverages a model project with user interface, served on GCP. The following are some ideas of example projects:</p>
+
+<ul>
+  <li>
+<strong>Anomaly Detection</strong> - Enter in a new document. What is the probability that his document belong?</li>
+  <li>
+<strong>Information Retrieval</strong> - Use a corpus of distinct elements. From a query, return a fine-tuned result.</li>
+  <li>
+<strong>Topic Modeling</strong> - In set of documents (maybe of multiple languages), enable exploration via topic.</li>
+  <li>
+<strong>Sentiment Analysis</strong> - Enter in a new tweet or movie review. Is it positive or negative? How confident?</li>
+</ul>
 
 <p>Feel free to pick any topic that you have data for. You can form groups of up to four; in your writeup, have a contributions sections denoting what each member worked on. There are two components to your project: your writeup and your code.</p>
 
 <h2><br></h2>
 
-<h4 id="starter-kit">starter kit</h4>
+<h4 id="starter-kit-and-artifacts">starter kit and artifacts</h4>
 
-<p>Feel free to use the following templates for your project.</p>
+<p>The following are the artifacts that we will turn in via Gradescope.</p>
 
 <ul>
-  <li><a href="https://docs.google.com/presentation/d/1cH9TaR2MHpiYLMkeZjyZ7e78E00jE66zNv6xxu6M72E/edit#slide=id.p" rel="external nofollow noopener" target="_blank">Project Slide Template</a></li>
-  <li><a href="https://www.overleaf.com/read/kszvtsstmnfs" rel="external nofollow noopener" target="_blank">Project Writeup Template</a></li>
+  <li>
+<a href="https://www.overleaf.com/read/kszvtsstmnfs" rel="external nofollow noopener" target="_blank">Project Writeup</a> (PDF Format)
+    <ul>
+      <li>Why is it important and interesting (review <a href="https://www.darpa.mil/work-with-us/heilmeier-catechism" rel="external nofollow noopener" target="_blank">heilmeier catechism</a>)?</li>
+      <li>How is your technical approach dealing with the complexity of the data?</li>
+    </ul>
+  </li>
+  <li>
+<a href="http://www.github.com" rel="external nofollow noopener" target="_blank">Project Repository</a> (Github Repository via Link)
+    <ul>
+      <li>Include a README.md on how to setup and run the project. This should be straightforward.</li>
+      <li>Try to containerize your solution with Docker so we don’t need specific libraries or software.</li>
+    </ul>
+  </li>
+  <li>
+<a href="http://streamlit.io" rel="external nofollow noopener" target="_blank">Demonstration</a> (DNS unnecessary)
+    <ul>
+      <li>This does not need to have continued uptime 100%. We will access your server (and it can be an IP address)</li>
+    </ul>
+  </li>
 </ul>
 
 <h2 id="-1"><br></h2>
 
 <h4 id="rubric-and-criterion">rubric and criterion</h4>
 
-<p>There are two submissions to your project: your writeup and your code. Combined, your contributions will be graded on the following.</p>
+<p>There are two components your project: its presentation and your technical delivery. This delivery will come in the form of a real-time demonstration of your engineering. In order to receive credit, your <strong>must have a real-time inference</strong> component. The delineation between the two contributions will be graded on the following.</p>
 
 <table>
   <tbody>
     <tr>
-      <td>25%</td>
+      <td>33%</td>
       <td>:</td>
       <td>
-<strong>Clarity and presentation</strong> : Relates to both written and oral delivery, (e.g., presentations on April 18)</td>
-    </tr>
-    <tr>
-      <td>5%</td>
-      <td>:</td>
-      <td>
-<strong>Motivation and impact</strong> : Problem is carefully chosen, important, and interesting</td>
-    </tr>
-    <tr>
-      <td>5%</td>
-      <td>:</td>
-      <td>
-<strong>Background and related work</strong>: Background, literature survey: applications and technical</td>
-    </tr>
-    <tr>
-      <td>30%</td>
-      <td>:</td>
-      <td>
-<strong>Data specifics</strong>: The amount of data should be enough to provide sufficient statistics (10%)</td>
+<strong>Documentation</strong> : Written and oral delivery of project rationale and justification of approach</td>
     </tr>
     <tr>
       <td> </td>
-      <td>:</td>
-      <td>
-<strong>Data specifics</strong>: Data exploration and exploration should be complete (20%)</td>
+      <td>-</td>
+      <td>     Motivation and Impact: A future iteration of this project can make a difference</td>
     </tr>
     <tr>
-      <td>20%</td>
-      <td>:</td>
-      <td>
-<strong>Modeling implementation</strong>: Ensure robustness against class imbalance and overfitting</td>
+      <td> </td>
+      <td>-</td>
+      <td>     Background and Related Work: Project is well-researched within and beyond course scope</td>
     </tr>
     <tr>
-      <td>10%</td>
-      <td>:</td>
-      <td>
-<strong>Results and evaulation</strong>: Well reasoned evaluation with appropriate metrics .</td>
+      <td> </td>
+      <td>-</td>
+      <td>     Modeling Methodology: Robustness to pitfalls like class imbalance and overfitting</td>
     </tr>
     <tr>
-      <td>5%</td>
+      <td> </td>
+      <td>-</td>
+      <td>     Evaluation and Analysis: Justification of the approach is sound</td>
+    </tr>
+    <tr>
+      <td>66%</td>
       <td>:</td>
       <td>
-<strong>Conclusions</strong>: Reflections and future directions</td>
+<strong>Technical</strong> : Demonstration of your work, handling of corner cases, technical correctness</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>-</td>
+      <td>     Base Accessibilty: The endpoint is open and is accessible to the public</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>-</td>
+      <td>     Performant: Results arrive in a reasonble time, and path to additional scaling is apparent</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>-</td>
+      <td>     Data Scale: Data needs to have at least 10k rows of meaningful amount of data</td>
+    </tr>
+    <tr>
+      <td> </td>
+      <td>-</td>
+      <td>     Replicable: Algorithms must be replicable and containerized</td>
     </tr>
   </tbody>
 </table>
+
+<p><br></p>
+
+<p><strong>Presentation and Grading</strong> - Each team will have five minutes to introduce their project (slides are not necessary). Prior to this, they will need start their servers so that the demonstration can commence. Instructor and TA’s will operate the end-point in real-time from their laptops.</p>
 
 <p><br></p>
 
@@ -214,7 +253,7 @@
 <h4 id="submission-instructions">submission instructions</h4>
 <hr>
 
-<p>Add the link to your project to <a href="https://docs.google.com/presentation/d/1Hob7JSEPMioPAP6rHdxFbJR-QAB5hGZi/edit#slide=id.p3" rel="external nofollow noopener" target="_blank">the final lecture slide deck</a>. (This is slide 3.) Commit all your code to your repository, and submit via <a href="https://www.gradescope.com/" rel="external nofollow noopener" target="_blank">Gradescope</a>. There, you will upload your PDF and provide the link to your repository, which should have all the code that you used to generate your solutions. Please submit only <strong>once</strong> per team by including all persons on Gradescope.</p>
+<p>Add the link to your project to <a href="https://docs.google.com/presentation/d/1Hob7JSEPMioPAP6rHdxFbJR-QAB5hGZi/edit#slide=id.p3" rel="external nofollow noopener" target="_blank">the final lecture slide deck</a>. (This is slide 2.) Commit all your code to your repository, and submit via <a href="https://www.gradescope.com/" rel="external nofollow noopener" target="_blank">Gradescope</a>. There, you will upload your PDF and provide the link to your repository, which should have all the code that you used to generate your solutions. Please submit only <strong>once</strong> per team by including all persons on Gradescope.</p>
 
 <!--
 <br><br><br>
