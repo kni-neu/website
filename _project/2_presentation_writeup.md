@@ -13,8 +13,7 @@ horizontal: false
 
 <hr style="border:2px solid gray">
 
-
-#### project presentation, demonstration, and writeup
+<br>
 
 Create a finished, deployable solution with a front end that leverages a model project with user interface, served on GCP. The following are some ideas of example projects:
 
@@ -63,7 +62,9 @@ There are two components your project: its presentation and your technical deliv
 
 <br>
 
-**Presentation and Grading** - Each team will have five minutes to introduce their project (slides are not necessary). Prior to this, they will need start their servers so that the demonstration can commence. Instructor and TA's will operate the end-point in real-time from their laptops.
+#### presentation and grading
+
+Each team will have five minutes to introduce their project (slides are not necessary). Prior to this, they will need start their servers so that the demonstration can commence. Instructor and TA's will operate the end-point in real-time from their laptops.
 
 <br>
 
