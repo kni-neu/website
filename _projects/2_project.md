@@ -2,7 +2,7 @@
 layout: page
 title: Hui Hwoo
 description: teaching assistant
-office_hours: m 2-4p, f 1-2p
+office_hours: Monday 2.00 - 4:00 pm, Friday 2:00-3:00 pm
 img: assets/img/hui.jpeg
 importance: 2
 category: staffing
