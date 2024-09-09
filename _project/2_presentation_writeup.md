@@ -1,8 +1,8 @@
 ---
 layout: page
-title: final presentation and writeup
+title: final demo and writeup
 permalink: /presentation-and-project/
-description: final presentation and writeup
+description: final submission- demo and writeup
 nav: true
 nav_order: 2
 hw_pdf: project-description.pdf
@@ -72,7 +72,7 @@ Each team will have five minutes to introduce their project (slides are not nece
 #### submission instructions
 -----
 
-Add the link to your project to [the final lecture slide deck](https://docs.google.com/presentation/d/1Hob7JSEPMioPAP6rHdxFbJR-QAB5hGZi/edit#slide=id.p3). (This is slide 2.) Commit all your code to your repository, and submit via [Gradescope](https://www.gradescope.com/). There, you will upload your PDF and provide the link to your repository, which should have all the code that you used to generate your solutions. Please submit only __once__ per team by including all persons on Gradescope.
+Add the link to your project to [the final lecture slide deck](https://docs.google.com/presentation/d/1VO-SAmfm3smmDhVn6AkyK-SZTDURDILz9xCFx_0OiAA). (This is slide 2.) Commit all your code to your repository, and submit via [Gradescope](https://www.gradescope.com/). There, you will upload your PDF and provide the link to your repository, which should have all the code that you used to generate your solutions. Please submit only __once__ per team by including all persons on Gradescope.
 
 
 

@@ -197,7 +197,7 @@
             - <a href="https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf">Information Retrieval, Chapter 13</a>
 
 
-    - title: Final Exam
+    - title: <a href="https://docs.google.com/presentation/d/1VO-SAmfm3smmDhVn6AkyK-SZTDURDILz9xCFx_0OiAA">Final Project Presentations</a>
       institution: December 9
       year: Week 14
       description:
@@ -215,15 +215,15 @@
   type: map
   contents:
     - name: Labs & Participation
-      value: 10%
+      value: 20%
     - name: Data Mining Project
-      value: 10%
+      value: 20%
     - name: Assignments
       value: 20%
     - name: Midterm Exam
-      value: 30%
+      value: 40%
     - name: Final Exam
-      value: 30%
+      value: ???
 
 
 - title: course meeting times
