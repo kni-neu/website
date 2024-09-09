@@ -13,13 +13,13 @@ category: staffing
     transition: all 0.3s ease;
   }
   .hover-image img:hover {
-    content: url('../assets/img/hui-avatar-2.jpeg');
+    content: url('../../assets/img/hui-avatar-2.jpeg');
   }
 </style>
 
 <div style="text-align: center;" class="hover-image">
   <a href="https://hui-hwoo.github.io/odyssey/">
-    <img src="../assets/img/hui-avatar.png" alt="hui hu" style="border-radius: 50%; width: 160px">
+    <img src="../../assets/img/hui-avatar.png" alt="hui hu" style="border-radius: 50%; width: 160px">
   </a>
 </div>
 
@@ -30,5 +30,5 @@ My academic path has been unconventional, taking me through Physics, Electrical 
 [Visit my website](https://hui-hwoo.github.io/odyssey/)
 
 <div style="text-align: center;">
-    <img src="../assets/img/hui-education.png" alt="hui hu" style="border-radius: 10px; height: 360px">
+    <img src="../../assets/img/hui-education.png" alt="hui hu" style="border-radius: 10px; height: 360px">
 </div>
