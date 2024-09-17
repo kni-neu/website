@@ -23,7 +23,7 @@ If you are using Colabs (not a requirement), you would need a Google account.
 
 <center>
 <img 
-  src="https://nedevelopment.com/sites/default/files/Westgate-Market_Basket_hero.png"
+  src="https://i0.wp.com/bostonrealestatetimes.com/wp-content/uploads/2019/01/Maynard-Crossing-Market-Basket-e1548163207345.jpg"
   width="500" height="auto">
 </center>
 <br>
