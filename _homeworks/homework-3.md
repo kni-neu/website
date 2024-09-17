@@ -5,8 +5,8 @@ permalink: /homework-3/
 description: mastering map reduce
 nav: true
 hw_pdf: assignment-3.pdf
-assigned: september 26
-due_date: october 10
+assigned: september 23
+due_date: october 7
 horizontal: false
 ---
 
