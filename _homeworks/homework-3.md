@@ -20,7 +20,7 @@ Review the homework in this [pdf file]({{ site.baseurl }}/assets/pdf/assignment-
 #### data and starter kit
 -----
 
-You will need [the data](https://course.ccs.neu.edu/cs6220/fall2023/homework-3/). If you are using Colabs (not a requirement), you would need a Google account.
+You will need [the data](https://course.ccs.neu.edu/cs6220/fall2024/homework-3/). If you are using Colabs (not a requirement), you would need a Google account.
 
 <center>
 <img 
@@ -42,7 +42,7 @@ d writing, **download the PDF** from Overleaf/Google and upload it to the submis
 #### submission instructions
 
 * Commit your `*.py` or `*.ipynb` (either is fine as long as they are commented appropriately), `output.txt`, and `name-submission-3.pdf` to that 
-repository and provide the URL via [Gradescope](https://www.gradescope.com/courses/690988/assignments/4010650) before 5pm, Thursday, February 8.
+repository and provide the URL via [Gradescope](https://www.gradescope.com/courses/690988/assignments/4010650) before 5pm, Monday, October 7.
 
 * Make sure that you have documented your code with comments so that the TA can have an easier time understanding your logic. This will, in some cases, result in at least partial credit.
 
