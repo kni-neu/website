@@ -36,7 +36,7 @@ d writing, **download the PDF** from Overleaf/Google and upload it to the submis
 
 * Upload your processed `output.txt` file in the specified format in the [homework questions]({{ site.baseurl }}/assets/pdf/assignment-3.pdf)
 
-* To help you get started, you may find that this [Colaboratory Link](https://colab.research.google.com/drive/1dAqxrOEqrvlqhCJ2jwKX4UrDlNNACWC7?usp=sharing) is useful. In order to submit, you'll need to Download the file as a `*.ipynb` file (Under **File** &rarr; **Download** &rarr; **Download .ipynb**.)
+* To help you get started, you may find that this [Colaboratory Link](https://colab.research.google.com/drive/1_xchh96JHuFK27LfDviv9ZeSa1KRhnN2) is useful. In order to submit, you'll need to Download the file as a `*.ipynb` file (Under **File** &rarr; **Download** &rarr; **Download .ipynb**.)
 
 <br>
 #### submission instructions
