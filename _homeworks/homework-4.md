@@ -5,8 +5,8 @@ permalink: /homework-4/
 description: clustering and parameter estimation
 nav: true
 hw_pdf: assignment-4.pdf
-assigned: february 8
-due_date: february 15
+assigned: october 7
+due_date: october 14
 horizontal: false
 ---
 
@@ -34,8 +34,7 @@ Here are the starter kits and materials that you might find useful.
 * [Here are some mathematical properties](https://docs.google.com/presentation/d/1zy2veJEjDT-0acPbGsrEC93EP0MOZIx54jL-gA7wPqE) that will help you in derivations.
 
 * Document templates can be either [Overleaf TeX File](https://www.overleaf.com/read/zfwcfsbbgtxj) or [DOCX File](https://docs.google.com/
-document/d/1qXipr5Ko2Xpf71GbLzEZXa9khB5w4O2B/edit?usp=sharing&ouid=117230435864186314036&rtpof=true&sd=true). When you've compiled/finishe
-d writing, **download the PDF** from Overleaf/Google and upload it to the submission link. 
+document/d/1qXipr5Ko2Xpf71GbLzEZXa9khB5w4O2B/edit?usp=sharing&ouid=117230435864186314036&rtpof=true&sd=true). When you've compiled/finished writing, **download the PDF** from Overleaf/Google and upload it to the submission link. 
 
 * As derived in class, there are some mathematical properties that are useful in deriving the gradients. Please take advantage of them [here](https://docs.google.com/presentation/d/1zy2veJEjDT-0acPbGsrEC93EP0MOZIx54jL-gA7wPqE).
 
