@@ -6,7 +6,7 @@ description: clustering and parameter estimation
 nav: true
 hw_pdf: assignment-4.pdf
 assigned: october 7
-due_date: october 14
+due_date: october 21
 horizontal: false
 ---
 
