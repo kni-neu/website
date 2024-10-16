@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lecture recordings available. No lecture on 10/14.
-date: 2024-02-15
+date: 2024-10-14
 inline: false
 related_posts: false
 ---
