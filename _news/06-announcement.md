@@ -18,4 +18,6 @@ This week (on October 14) was Indigenous Peoples' Day, and there is no instructi
 
 This week as well, there was a lunch and learn on recommendation systems and sciences. Please feel free to watch the recording below.
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jfp5LtlCOR0?si=aw7Gke-3ipgeU7VY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
