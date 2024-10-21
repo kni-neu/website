@@ -5,8 +5,8 @@ permalink: /homework-5/
 description: bayes rules and ml toolboxes
 nav: true
 hw_pdf: assignment-5.pdf
-assigned: february 15
-due_date: february 22
+assigned: october 21
+due_date: october 28
 horizontal: false
 ---
 
@@ -20,7 +20,7 @@ Review the homework in this [pdf file]({{ site.baseurl }}/assets/pdf/assignment-
 #### data and starter kit
 -----
 
-You will need [this data](https://course.ccs.neu.edu/cs6220/fall2023/homework-5/). 
+You will need [this data](https://course.ccs.neu.edu/cs6220/fall2024/homework-5/). 
 
 <center>
 <img 
