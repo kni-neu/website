@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Homework 5, Question 3 can be omitted. Project proposals due 3/21. Midterm is next week.
-date: 2024-02-19
+title: Homework 5, Question 3 can be omitted. Soliciting project proposals. Midterm week of 11/4.
+date: 2024-10-22
 inline: false
 related_posts: false
 ---
 
-You only need to do questions 1 and 2 in homework five, and You do *not* need to do question 3 this week. [See the Teams thread](https://teams.microsoft.com/l/message/19:6e5fd5a350344874bd210ee09a85d32a@thread.tacv2/1708364322727?tenantId=a8eec281-aaa3-4dae-ac9b-9a398b9215e7&groupId=6598288e-4482-4e4f-bbd9-7eda41a84758&parentMessageId=1708364322727&teamName=CS6220%20Data%20Mining%20Techniques%20-%20Spring%202024&channelName=Assignment%205&createdTime=1708364322727). Of the three questions in [homework 5](../../homework-5/), questions 1 and 2 are about Bayes Theorem, which are designed to aid in studying for the exam. We will be moving Q3 to the following homework.
+You only need to do questions 1 and 2 in homework five if you've downloaded the homework before October 22. If you've downloaded the homework as of 10/22, then complete the entirety of the homework, following the instructions in [the homework](/homework-5). These are Bayes Rules and the Conditional Probability proof. These questions are the most relevant to the midterm exam.
 
 ***
 
@@ -23,7 +23,7 @@ The midterm exam will consist of ten questions, and students will have the entir
 
 The midterm is close book without any notes. I will provide some information on the board so that memorization of formulas is unnecessary. Among the information that I anticipate as helpful, here are some that might help:
 
-* Commonly used map-reduce functions: `map`, `reduceByKey`, and `filter`
+* Commonly used map-reduce functions: `map`, `flatMap`, `reduceByKey`, and `filter`
 * Some helpful derivatives and math properties: `log`, `exponent`, `product`
 * Probabilistic rules: conditional probability, total probability, and Bayes rule
 
@@ -33,12 +33,9 @@ I would suggest that you practice these so that you needn't look up at the board
 
 ### Midterm Review Slides
 
-[Here](https://docs.google.com/presentation/d/1vh_IrsHOMkrAUxKSyfDurK6e4pAyKn_M) are some practice problems that should help you prepare:
+[Here](ihttps://docs.google.com/presentation/d/18sWEmfkzLzCeDKigFUx8WmBzwuYw19jG) are some practice problems that should help you prepare:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT47MBdPnyxSDdVdDzI06qej4fmjebKzcPGisenwt4E7NcxtoQtSbbPft5uJpUtBg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="760" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ***
 
-### Project Proposals Due 3/21
-
-Project proposals are now due 3/21 after the holiday. Please organize your team and review the [proposal site](../../project-proposal).

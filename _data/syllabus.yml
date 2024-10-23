@@ -132,7 +132,6 @@
       description:
         - title: Topics
           contents:
-            - Linear Algebra Review
             - MapReduce Problems
             - Principle Component Analysis
             - Parameter Estimation
