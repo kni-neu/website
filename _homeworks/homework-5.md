@@ -34,8 +34,6 @@ Here are the starter kits that you might find useful.
 
 * Document templates can be either [LaTeX File](https://www.overleaf.com/read/gbwryydmdjhv) or [DOCX File](https://docs.google.com/document/d/1E1QXKcVpGZY8kBjhWRok2a_UIUTO0ER5). When you've compiled/finished writing, **download the PDF** from Overleaf/Google/Microsoft and upload it to your repository.
 
-* [Here is the Colab that can serve as a homework template](https://colab.research.google.com/drive/1cPJ5eDwVU_F7H3XDRG1Y7Mfd12kwa7Iw?usp=sharing). 
-
 -----
 #### submission instructions
 -----
