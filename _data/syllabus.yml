@@ -163,7 +163,7 @@
         - title: <a href="../submissions">Submissions</a>
           contents:
             - <a href="http://gradescope.com">Assignment 6 is <b>due</b></a>
-            - <a href="../homework-7">Assignment 7 is <b>assigned</b></a>
+            - <a href="../homework-7">Assignment 7 is <b>assigned</b></a> - <i>Evaluation Metrics</i>
 
 
     - title: <a href="">Mining Images with Deep Learning</a>
@@ -175,6 +175,10 @@
             - Working with Tensors - Reviewing Multivariate Calculus
             - Deep Learning - A Historical Perspective
         - <a href="https://www.deeplearningbook.org/contents/mlp.html">Suggested Reading</a>
+        - title: <a href="../submissions">Submissions</a>
+          contents:
+            - <a href="http://gradescope.com">Assignment 7 is <b>due</b></a>
+            - <a href="../homework-8">Assignment 8 is <b>assigned</b></a> - <i>Neural Networks</i>
 
 
     - title: <a href="">Mining Text with Self Supervision</a>
@@ -190,6 +194,9 @@
         - title: Suggested Reading
           contents:
             - <a href="https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf">Information Retrieval, Chapter 13</a>
+        - title: <a href="../submissions">Submissions</a>
+          contents:
+            - <a href="http://gradescope.com">Assignment 8 is <b>due</b></a>
 
 
     - title: <a href="https://docs.google.com/presentation/d/1VO-SAmfm3smmDhVn6AkyK-SZTDURDILz9xCFx_0OiAA">Final Project Presentations</a>
