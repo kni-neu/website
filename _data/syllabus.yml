@@ -98,7 +98,6 @@
           contents:
             - Anomaly and Outlier Detection
             - The Bayesian Framework
-            - Naive Bayes Classification
         - title: Suggested Reading
           contents:
             - <a href="https://faculty.washington.edu/tamre/BayesTheorem.pdf">Bayes Theorem</a>
@@ -106,7 +105,7 @@
         - title: <a href="../submissions">Submissions</a>
           contents:
           - <a href="http://gradescope.com">Assignment 4 is <b>due</b></a>
-          - <a href="../homework-5">Assignment 5 is assigned</a> - <i>Bayesian Framework & ML Libraries</i>
+          - <a href="../homework-5">Assignment 5 is assigned</a> - <i>The Bayesian Framework</i>
 
 
     - title: <a href="https://docs.google.com/presentation/d/1RU9sXbyF-lnqOpzdJCLyMPtXzf5SsvEfoaiHWUoSuws">Mining with Small Data and Course Review</a>
@@ -115,6 +114,7 @@
       description:
         - title: Topics
           contents:
+            - Naïve Bayes Classification
             - Decision Tree Classification
             - Course Review and Midterm Preparation
         - title: Suggested Reading
@@ -123,7 +123,7 @@
         - title: <a href="../submissions">Submissions</a>
           contents:
           - <a href="http://gradescope.com">Assignment 5 is <b>due</b></a>
-          - <a href="../homework-6">Assignment 6 is assigned</a> - <i>Evaluation Metrics</i>
+          - <a href="../homework-6">Assignment 6 is assigned</a> - <i>Using ML Libraries</i>
 
 
     - title: Midterm Exam

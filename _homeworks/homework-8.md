@@ -1,12 +1,12 @@
 ---
 layout: page
-title: homework 7
-permalink: /homework-7/
-description: sampling and repurposing LLMs
+title: homework 8
+permalink: /homework-8/
+description: the logistic regression
 nav: true
-hw_pdf: assignment-7.pdf
-assigned: november 14
-due_date: november 21
+hw_pdf: assignment-8.pdf
+assigned: november 25
+due_date: december 2
 horizontal: false
 ---
 
