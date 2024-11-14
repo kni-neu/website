@@ -1,20 +1,20 @@
 ---
 layout: post
 title: Midterms have been graded and statistics are available. 
-date: 2024-03-09
+date: 2024-11-13
 inline: false
 related_posts: false
 ---
 
 Midterms are graded and will be returned the week after next (March 21). The statisics are as follows:
 
-* Average score over all enrolled students = 73.8
-* Median score over all enrolled students = 73
-* Standard deviation is around 12 points = 15.1
+* Average score over all enrolled students = 63
+* Median score over all enrolled students = 65
+* Standard deviation is = 13.4
 
 The distribution is shown below.
 
-![]({{ site.baseurl }}/assets/img/midterm-histogram.png)
+![]({{ site.baseurl }}/assets/img/midterm-histogram-fa2024.png)
 
 <br>
 <br>
