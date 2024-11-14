@@ -150,17 +150,92 @@
 
 <hr>
 
+<h3 id="fine-grained-aggregate-performance">Fine Grained Aggregate Performance</h3>
+<p><br></p>
+
 <p>Breaking down the performance, the average scoring and confidence intervals are shown below (scaling 
 STDEV = 0.25).</p>
 
 <p><img src="/cs6220/data-mining/assets/img/midterm-q-scores.png" alt=""></p>
 
+<table>
+  <thead>
+    <tr>
+      <th>Metric</th>
+      <th>Q1</th>
+      <th>Q2</th>
+      <th>Q3</th>
+      <th>Q4</th>
+      <th>Q5</th>
+      <th>Q6</th>
+      <th>Q7</th>
+      <th>Q8</th>
+      <th>Q9</th>
+      <th>Q10</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Avg</td>
+      <td>6</td>
+      <td>3.47</td>
+      <td>5.52</td>
+      <td>6.64</td>
+      <td>7</td>
+      <td>5.47</td>
+      <td>8.94</td>
+      <td>7.76</td>
+      <td>8.23</td>
+      <td>3.94</td>
+    </tr>
+    <tr>
+      <td>STDev</td>
+      <td>2.66</td>
+      <td>2.60</td>
+      <td>3.04</td>
+      <td>2.97</td>
+      <td>3.51</td>
+      <td>2.98</td>
+      <td>1.74</td>
+      <td>2.01</td>
+      <td>2.27</td>
+      <td>2.63</td>
+    </tr>
+    <tr>
+      <td>Low</td>
+      <td>3.33</td>
+      <td>0.86</td>
+      <td>2.48</td>
+      <td>3.33</td>
+      <td>3.48</td>
+      <td>2.48</td>
+      <td>7.19</td>
+      <td>5.74</td>
+      <td>5.95</td>
+      <td>1.30</td>
+    </tr>
+    <tr>
+      <td>High</td>
+      <td>8.66</td>
+      <td>6.07</td>
+      <td>8.57</td>
+      <td>9.62</td>
+      <td>10.5</td>
+      <td>8.45</td>
+      <td>10.6</td>
+      <td>9.78</td>
+      <td>10.5</td>
+      <td>6.57</td>
+    </tr>
+  </tbody>
+</table>
+
 <p>Insights per question:</p>
 
 <ul>
-  <li>Most common error was the application of the similarity metric in k-Means</li>
-  <li>Itemset questions had the highest average scoring and lowest standard deviations</li>
-  <li>The most difficult question was the final probability question</li>
+  <li>Questions 2 (Lone Wolves and Influencers) and 10 (KBB, Bayes Theory) were the most difficult</li>
+  <li>Question 5 (Maximum Likelihlood) had the most amount of variance</li>
+  <li>Question 7 and 8 (Association Rules) People appear to generally understand frequent itemsets</li>
 </ul>
 
 
