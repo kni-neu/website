@@ -20,7 +20,7 @@ This is the final homework of the semester for CS6220. Review the homework in th
 #### data and starter kit
 -----
 
-You will need the [data](https://course.ccs.neu.edu/cs6220/fall2023/homework-8/). If you are using Colabs (not a requirement), you would need a Google account.
+You will need the [data](https://course.ccs.neu.edu/cs6220/fall2024/homework-8/). If you are using Colabs (not a requirement), you would need a Google account.
 
 <center>
 <img 
