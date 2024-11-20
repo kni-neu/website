@@ -20,7 +20,7 @@ Review the homework in this [pdf file]({{ site.baseurl }}/assets/pdf/assignment-
 #### data and starter kit
 -----
 
-For this assignment, you will need [the data](https://course.ccs.neu.edu/cs6220/fall2023/homework-6/). If you are using Colabs (not a requirement), you need a Google account.
+For this assignment, you will need [the data](https://course.ccs.neu.edu/cs6220/fall2024/homework-7/). If you are using Colabs (not a requirement), you need a Google account.
 
 <center>
 <img 
