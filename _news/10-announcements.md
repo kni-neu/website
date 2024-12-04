@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Project submission is live! Procedures available here
+title: Project submission is live! No class next week
 date: 2024-12-02
 inline: false
 related_posts: false
 ---
 
-Projects will be reviewed on or before December 9. Please have them ready before December 9 so that I can ask questions throughout the day. Excited to see what you come up with!
+Projects will be reviewed on or before December 6 (extra credit) and December 9 (normal credit). It is important to have them ready *before* those dates so that I can ask questions throughout the day and advise you if your endpoint is not active. Excited to see what you come up with! 
+
+Since we are submitting online asynchronously, *there will be no class next week*. I will evaluate your projects on the plane or after I land.
 
 * Fill out the [slide deck](https://docs.google.com/presentation/d/1VO-SAmfm3smmDhVn6AkyK-SZTDURDILz9xCFx_0OiAA) with the:
   * Name(s) of each contributor
