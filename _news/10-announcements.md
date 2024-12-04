@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project submission is live!
-date: 2024-04-02
+date: 2024-12-02
 inline: false
 related_posts: false
 ---
