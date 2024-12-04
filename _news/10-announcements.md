@@ -13,6 +13,25 @@ related_posts: false
 
 The lecture slides refer to [this github link](https://github.com/kni-neu/streamlit_cloudrun/tree/main), which provides some good examples on how to create your endpoint.
 
-### LaTeX template
+### End-point grading procedure
+
+This year, we have elected to submit the project _outside_ of the class hours. For this reason, I'll be taking a flight early out on December 9, so please do the following:
+
+* Submit your project through [gradescope](http://gradescope.com)
+* Add your IP Address to the deck *_before_* December 9, 2024, beginning of day
+* I'll review the instructions and try out some edge cases throughout the day
+* Keep the IP Address live until *_after_* December 10, 2024, end of day
+
+If I am having trouble or questions, I will e-mail you / Teams message you. 
+
+### Formal project submission
+
+Submit your deliverables via [Gradescope](http://gradescope.com). There you will need to enter
+
+* Your repository link
+* Project PDF report (template below)
+* IP address for your endpoint
+
+Feel free to use the following template.
 
 [<img src="../../assets/img/project-latex.png" alt="Project LaTeX" style="width:700px">](https://www.overleaf.com/project/64e2ee609dd6f4b743ea664e)
