@@ -6,6 +6,8 @@ inline: false
 related_posts: false
 ---
 
+Projects will be reviewed on or before December 9. Please have them ready before December 9 so that I can ask questions throughout the day. Excited to see what you come up with!
+
 * Fill out the [slide deck](https://docs.google.com/presentation/d/1VO-SAmfm3smmDhVn6AkyK-SZTDURDILz9xCFx_0OiAA) with the:
   * Name(s) of each contributor
   * Topic of your problem (link to your instructions later in the deck)
@@ -18,9 +20,9 @@ The lecture slides refer to [this github link](https://github.com/kni-neu/stream
 This year, we have elected to submit the project _outside_ of the class hours. For this reason, I'll be taking a flight early out on December 9, so please do the following:
 
 * Submit your project through [gradescope](http://gradescope.com)
-* Add your IP Address to the deck *_before_* December 9, 2024, beginning of day
+* Add your IP Address to the deck **before** December 9, 2024, beginning of day
 * I'll review the instructions and try out some edge cases throughout the day
-* Keep the IP Address live until *_after_* December 10, 2024, end of day
+* Keep the IP Address live until **after** December 10, 2024, end of day
 
 If I am having trouble or questions, I will e-mail you / Teams message you. 
 
