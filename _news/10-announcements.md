@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project submission is live!
+title: Project submission is live! Procedures available here
 date: 2024-12-02
 inline: false
 related_posts: false
